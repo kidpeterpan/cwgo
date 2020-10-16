@@ -1,1 +1,2 @@
 # cwgo
+go for fun!
